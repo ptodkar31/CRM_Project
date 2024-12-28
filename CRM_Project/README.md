@@ -1,6 +1,7 @@
-CRM Project
-A Customer Relationship Management (CRM) system built with Django, featuring:
+Customer Relationship Management (CRM)
 
+
+featuring:
 JWT-based authentication.
 CRUD APIs for managing customers, products, and orders.
 Redis caching for frequently queried data.
